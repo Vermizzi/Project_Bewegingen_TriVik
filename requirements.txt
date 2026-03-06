@@ -3,3 +3,5 @@ ipykernel
 scipy
 numpy
 matplotlib
+ipympl
+ipywidgets
