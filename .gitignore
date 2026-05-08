@@ -2,3 +2,12 @@
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+
+# Ignore the whole assets folder
+assets/
+
+# Ignore large walking data files
+Walking Data/GRF_F_AP_PRO_left.csv
+Walking Data/GRF_F_V_PRO_left.csv
+Walking Data/GRF_F_V_RAW_left.csv
+Walking Data/GRF_walking_speed.csv
